@@ -1,0 +1,7 @@
+pandas
+docling
+tiktoken
+docling-core
+pyarrow
+pillow
+datasets
